@@ -1,0 +1,4 @@
+AmmoType,
+Enemies,
+Damage,
+WeaponType
